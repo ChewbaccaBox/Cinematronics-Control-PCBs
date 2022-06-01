@@ -1,5 +1,7 @@
 # Cinematronics Control PCBs
 
+***THIS PROJECT IS INCOMPLETE AND STILL IN PROGRESS***
+
 A collection of reproduction PCBs from Cinematronics Arcade games.
 They typically hold the keytronics switches or optos, or are used
 to link up buttons to the ribbon cable.
